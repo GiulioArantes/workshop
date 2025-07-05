@@ -32,8 +32,11 @@ Este projeto foi construído com uma stack moderna, performática e escalável:
     * [**Spring Boot**](https://spring.io/projects/spring-boot) - Framework Java para aplicações web robustas e seguras.
     * [**PostgreSQL**](https://www.postgresql.org/) - Banco de dados relacional que pode ser utilizado no ambiente de **produção**.
     * [**H2**](https://www.h2database.com/html/main.html) - Banco de dados relacional utilizado no ambiente de **desenvolvimento**, simples e prático para testes.
+![h2](https://i.postimg.cc/z3Yr1dbb/h2.png)
+
 * **Testes:**
-    * [**Postman**](https://www.postman.com/) - Ferramenta para teste e validação de APIs.
+    * [**Insomnia**](https://www.postman.com/) - Ferramenta para teste e validação de APIs. </br>
+![h2](https://i.postimg.cc/h4sPdmz9/insomnia.png)
 
 ## ⚙️ Como Rodar o Projeto
 
